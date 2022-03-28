@@ -259,8 +259,8 @@ if __name__ == '__main__':
                 RealParameter('Order buffer direct tender PPE',0.5, 3),
                 RealParameter('Order buffer domestic production PPE',0.5, 3),
                 RealParameter('Order buffer innovation PPE',0.5, 3),
-                RealParameter('Time to check products',1, 5),
-                RealParameter('Shipment time to hospitals',1, 10),
+#                 RealParameter('Time to check products',1, 5),
+#                 RealParameter('Shipment time to hospitals',1, 10),
 
                 # RealParameter('Order buffer procurement world market vent',0.5, 3),
                 # RealParameter('Order buffer direct tender vent',0.5, 3),
